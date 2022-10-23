@@ -1,9 +1,6 @@
 package application;
-
-import boardgame.Board;
 import chess.ChessMatch;
 
-import java.rmi.server.UID;
 
 public class Program {
     public static void main(String[] args) {
