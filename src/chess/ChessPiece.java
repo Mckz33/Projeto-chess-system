@@ -3,11 +3,11 @@ package chess;
 import boardgame.Board;
 import boardgame.Piece;
 
-public class ChessPieace extends Piece {
+public class ChessPiece extends Piece {
 
     private Color color;
 
-    public ChessPieace(Board board, Color color) {
+    public ChessPiece(Board board, Color color) {
         super(board);
         this.color = color;
     }
